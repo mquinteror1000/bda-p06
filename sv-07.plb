@@ -1,0 +1,34 @@
+create or replace procedure valida_datos_instancia wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+651 302
+xXnSlr92SeWG0us/rNWoSeRDV7Mwg+2JVRgFfC8CEpCwdW2st8JW3ilchJkYO4rlMhTv2su+
+ZSc7RJxwsGEDoEsgDdBQHx7OgNT6xWxpFjZfKsFfIU+ujlruCSDvPnrlEKflFFwyzGyThz3F
+tac+cO42ytwVcJXPnn/3uQD3u+i7wU46frOncS3u86aa2JzD0RsMI8bONtXOmSauVeejldLX
+dATQRlJwQmyVq+O7SeA6iDLX3AUSGBcpGbbcPI4irIZ/eOCstr7HaeZTW+DZJn7y7tF2PHte
+oJmjXkd9PJMhW/RMqCl5WWy6zejOy6VvRHN/SINEB/lH5aPEtrAjKJWxu0XRcKBSZLbBRGde
+97Fj8pmM7kTDg9i1Pzn2JIn/b7B14AYgTTh3HSDzlWQdZvfpRoK/qXRY/KXIzYFjfwfRVjbR
+ZuSivJpP97IsMGQsXIcKw/tBH3vWTuaNQ4gi3KKP3evrS4C7pf0mf0NEenaBMcuAhp1EJphh
+bIrGYQ9p4PudYDvy/Un2bnsJGfEUN/TSbXpYETbbc+a5fZO4dOt8Felm7dnDmLIkr2gcQdaS
+UncNQGuzoZ/FCsmOjPzWqNrLEbhIZ1OMfbJ1+SjvIL7LttM2Iseht31GCI3OF3Az4qprFypx
+8CW5vN2BxaA8mH71XOn1EAAUgqVrVstY3FyDSj/YSuVHnn2YVW51UsOwnfbFbSNZ1COTJtO1
+DpxzQDmVZ48BlXrxMBTTqKz24CllwjCBW2EYat4=
+
+/
+show errors
